@@ -1,6 +1,6 @@
 ### Hi there, I'm Gemma! 👋
 
-Hi, I'm Gemma Sanz, a passionate frontEnd web developer from Spain.
+Hi, I'm Gemma Sanz, a passionate FullStack web developer from Spain.
 
 ```diff
       const gemma = {
