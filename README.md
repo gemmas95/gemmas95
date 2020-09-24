@@ -17,7 +17,7 @@ Hi, I'm Gemma Sanz, a passionate frontEnd web developer from Spain.
 🔭 Projects: Dragon Ball, OnSport
 
 ![GitHub Logo](https://www.shareicon.net/data/128x128/2017/06/30/888065_logo_512x512.png)
-Format: width: 50px ![Alt Text](https://www.linkedin.com/in/gemma-sanz-rabadan/)
+Format: ![Alt Text](https://www.linkedin.com/in/gemma-sanz-rabadan/)
 
 <!--
 **gemmas95/gemmas95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
