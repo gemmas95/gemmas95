@@ -4,6 +4,9 @@ Hi, I'm Gemma Sanz, a passionate frontEnd web developer from Spain.
 
 ```diff
       const gemma = {
+      ```json
+  code for coloring
+```
       <span style="color: green"> Some green text </span>
 
              languages: [JavaScript, TypeScript, HTML, sass, css],
