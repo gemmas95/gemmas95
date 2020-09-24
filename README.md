@@ -16,10 +16,10 @@ Hi, I'm Gemma Sanz, a passionate frontEnd web developer from Spain.
 
 🔭 Projects: Dragon Ball, OnSport
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[1]: https://www.linkedin.com/in/gemma-sanz-rabadan/
-
-Format: ![Alt Text](https://www.linkedin.com/in/gemma-sanz-rabadan/)
+[[params.social]]
+  icon = "linkedin"
+  icon_pack = "ai"
+  link = "https://www.linkedin.com/in/gemma-sanz-rabadan/"
 
 <!--
 **gemmas95/gemmas95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
