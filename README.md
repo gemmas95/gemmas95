@@ -2,7 +2,7 @@
 
 Hi, I'm Gemma Sanz, a passionate frontEnd web developer from Spain.
 
-``` diff
+```diff
       const gemma = {
 
              languages: [JavaScript, TypeScript, HTML, sass, css],
