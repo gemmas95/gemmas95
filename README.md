@@ -4,11 +4,11 @@ Hi, I'm Gemma Sanz, a passionate frontEnd web developer from Spain.
 
 const gemma = {
 
-  languages: [JavaScript, TypeScript, HTML, sass, css],
+      languages: [JavaScript, TypeScript, HTML, sass, css],
   
-  technologies: [React, Angular],
+      technologies: [React, Angular],
   
-  interestings: 'Learning new technologies'
+      interestings: 'Learning new technologies'
   
 }
 
