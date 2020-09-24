@@ -16,7 +16,7 @@ Hi, I'm Gemma Sanz, a passionate frontEnd web developer from Spain.
 
 🔭 Projects: Dragon Ball, OnSport
 
-![GitHub Logo](https://ritmicatanit.club/wp-content/uploads/2019/08/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png.jpeg)
+![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shareicon.net%2Flogo-linkedin-website-linkedin-logo-888065&psig=AOvVaw01etuNuaMt2l6rSVMy-zYf&ust=1601027455660000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKisqJjCgewCFQAAAAAdAAAAABAD)
 Format: width: 50px ![Alt Text](url)
 
 <!--
