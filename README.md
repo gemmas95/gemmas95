@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Gemma! 👋
+
+Hi, I'm Gemma Sanz, a passionate frontEnd web developer from Spain.
+
+const gemma = {
+  languages: [JavaScript, TypeScript, HTML, sass, css],
+  technologies: [React, Angular],
+  interestings: 'Learning new technologies'
+}
+
+💬 Ask me about anything
+🔭 Projects: Dragon Ball, OnSport
+
 
 <!--
 **gemmas95/gemmas95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
