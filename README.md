@@ -2,14 +2,14 @@
 
 Hi, I'm Gemma Sanz, a passionate FullStack web developer from Spain.
 
-```diff
-      const gemma = {
+```ruby
+const Gemma = {
 
-             languages: [JavaScript, TypeScript, HTML, sass, css],
+      languages: [JavaScript, TypeScript, HTML, sass, css],
   
-             technologies: [React, Angular],
+      technologies: [React, Angular],
   
-             interestings: 'Learning new technologies'
+      interestings: 'Learning new technologies'
   
       }
 ```
@@ -19,9 +19,9 @@ Hi, I'm Gemma Sanz, a passionate FullStack web developer from Spain.
 🔭 Projects: Dragon Ball, OnSport
 
 📫 Contact with me:
-
-   [<img src=https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png height=40px alt='Linkedin'></img>](https://www.linkedin.com/in/gemma-sanz-rabadan/)
-
+<div align='center'>
+   [<img src=https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png alt='linkedin' height=40px alt='Linkedin'></img>](https://www.linkedin.com/in/gemma-sanz-rabadan/)
+</div>
 
 <!--
 **gemmas95/gemmas95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
