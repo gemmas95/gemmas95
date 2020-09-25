@@ -11,7 +11,7 @@ const Gemma = {
   
       interestings: 'Learning new technologies'
   
-      }
+}
 ```
 
 💬 Ask me about anything
