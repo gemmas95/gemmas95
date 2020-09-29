@@ -7,9 +7,9 @@ const Gemma = {
 
       languages: [JavaScript, TypeScript, HTML, sass, css],
   
-      technologies: [React, Angular],
+      technologies: [React, Angular, React Native],
   
-      interestings: 'Learning new technologies'
+      interestings: 'Learn new technologies'
   
 }
 ```
@@ -19,7 +19,6 @@ const Gemma = {
 🔭 Projects: Dragon Ball, OnSport
 
 📫 Contact with me:
-
 
 <p align="center">
 <a href=https://www.linkedin.com/in/gemma-sanz-rabadan/><img src=https://trello-attachments.s3.amazonaws.com/5edcc7367102c32f7a0d5304/5f736cfbeeac638f785cdc5a/4e229c905174c7a56f2760f23a6b2fc4/linkedin.svg alt='linkedin' height=40px alt='Linkedin'></img></a>
