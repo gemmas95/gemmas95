@@ -21,12 +21,9 @@ const Gemma = {
 📫 Contact with me:
 
 
-<div display=flex justify-content=center>
-     
+<p align="center">
 <a href=https://www.linkedin.com/in/gemma-sanz-rabadan/><img src=https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png alt='linkedin' height=40px alt='Linkedin'></img></a>
-
-</div>
-
+</p>
 
 <!--
 **gemmas95/gemmas95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
