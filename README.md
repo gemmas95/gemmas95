@@ -2,6 +2,10 @@
 
 Hi, I'm Gemma Sanz, a passionate FullStack web developer from Spain.
 
+
+<img align="right" src='https://raw.githubusercontent.com/hendrixroa/in-case-of-fire-1/master/in_case_of_fire.png' height=200px>
+<p align="center">
+      
 ```ruby
 const Gemma = {
 
@@ -13,6 +17,7 @@ const Gemma = {
   
 }
 ```
+</p>
 
 💬 Ask me about anything
 
