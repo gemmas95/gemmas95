@@ -21,12 +21,12 @@ const Gemma = {
 📫 Contact with me:
 
 
-<div display=flex flex-direction=row justify-content="center">
+<p display=flex justify-content=center>
       
   <a href=https://www.linkedin.com/in/gemma-sanz-rabadan/><img src=https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png alt='linkedin' height=40px alt='Linkedin'></img></a>
 
 
-</div>
+</p>
 
 
 <!--
