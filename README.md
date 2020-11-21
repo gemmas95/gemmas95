@@ -27,8 +27,8 @@ const Gemma = {
 📫 Contact with me: gemma1030@gmail.com
 
 <div align="center" margin="auto">
-<a margin="10px" href=https://www.linkedin.com/in/gemma-sanz-rabadan/><img src=https://trello-attachments.s3.amazonaws.com/5edcc7367102c32f7a0d5304/5f736cfbeeac638f785cdc5a/4e229c905174c7a56f2760f23a6b2fc4/linkedin.svg alt='linkedin' height=40px alt='Linkedin'></img></a>
-<a margin=10px href=https://gemmasanz.netlify.app//><img src=https://trello-attachments.s3.amazonaws.com/5f7dbba23b74527ee1978ff6/299x300/22ac39b4c48d2ebdd05dd593ef027c84/logo_gs2.png alt='portfolio' height=40px alt='Portfolio'></img></a>
+<a href=https://www.linkedin.com/in/gemma-sanz-rabadan/><img margin="10px" src=https://trello-attachments.s3.amazonaws.com/5edcc7367102c32f7a0d5304/5f736cfbeeac638f785cdc5a/4e229c905174c7a56f2760f23a6b2fc4/linkedin.svg alt='linkedin' height=40px alt='Linkedin'></img></a>
+<a href=https://gemmasanz.netlify.app//><img margin=10px src=https://trello-attachments.s3.amazonaws.com/5f7dbba23b74527ee1978ff6/299x300/22ac39b4c48d2ebdd05dd593ef027c84/logo_gs2.png alt='portfolio' height=40px alt='Portfolio'></img></a>
 </div>
 <br />
 
