@@ -34,8 +34,6 @@ const Gemma = {
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gemmas95&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/gemmas95)  
-
 <!--
 **gemmas95/gemmas95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
