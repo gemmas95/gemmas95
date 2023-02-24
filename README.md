@@ -13,10 +13,12 @@ const Gemma = {
   
       technologies: [React, Angular, React Native],
   
-      interestings: { main: 'Learn new technologies',
+      interests: { 
+            main: 'Learn new technologies',
             wantedTechnologies: [Vue.js, PHP, Python, Next.js, Gatsby]
-  
       }
+  
+}
 ```
 </p>
 
